@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">joseph shop</string>
-    <string name="facebook_app_id">594960262135444</string>
-    <string name="fb_login_protocol_scheme">fb1234</string>
-    <string name="facebook_client_token">56789</string>
+    <string name="facebook_app_id">59496026213544</string>
+    <string name="fb_login_protocol_scheme">fb123</string>
+    <string name="facebook_client_token">5678</string>
 
 
 </resources>
