@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880557079217",
+    "project_id": "joseph-shop",
+    "storage_bucket": "joseph-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880557079217:android:3cfa5b7115b5fa06ea8090",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880557079217-htp1h5t3fcvao5ube3ofvq4l0ogjoc77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj8_IGZfUUmy5KRCx3_Mw0nKnNify4rxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880557079217-htp1h5t3fcvao5ube3ofvq4l0ogjoc77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
